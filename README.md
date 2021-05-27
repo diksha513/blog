@@ -1,5 +1,3 @@
-# blog
-Technology Innovations  in IT 
 <html lang ="en">
 <head> 
 <title> <strong>Latest Technology Innovations -IT </strong></title>
@@ -29,7 +27,7 @@ Technology Innovations  in IT
 
 <p class="font">Gene therapy is a technique that treats the disease and improves immunity by modifying, adding, deactivating, or replacing the genes within the human DNA. It can be administered both inside and outside the body, where viral vectors are used as vehicles to carry the new genetic material. Gene therapy on the other hand has proven to be highly effective against diseases as it targets the source or cause of the disease. </p>
 
-<h3>What is the role of Machine Learning in gene therapy?<h3>
+<h3>What is the role of Machine Learning in gene therapy?</h3>
 
 <p class="font">In spite of most advanced medical technologies, the success of gene therapy lies in ensuring the therapeutic gene is specifically targeted to the right cells and the right tissue. If poorly executed, gene therapy could potentially encourage harmful mutations in the DNA, resulting in bigger health problems for the patient.  The other obstacle is to tackle the vast amount of patient data that must be collected and analyzed.</p>
 
