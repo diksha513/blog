@@ -1,6 +1,7 @@
 <html lang ="en">
 <head> 
- <strong><h2>Latest Technology Innovations -IT</h2> </strong>
+ <h2>Blog by Diksha Gadataranavar</h2>
+ <strong><h2>Latest Technology Innovations in IT</h2> </strong>
 <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"
@@ -38,6 +39,8 @@ Gene editing is defined as a method of making specific alterations to DNA at the
 <h3>3 – Clinical Workflow</h3>
 <p class="font">
 There are often gaps in the patient data available to the different members of a healthcare team serving a patient. This challenge has sparked an interest in using machine learning to improve the efficiency of the clinical workflow process. Intel has designed an Analytics Toolkit which integrates machine learning capabilities into the clinical workflow process</p>
+ 
+  
 
 <h3>4 – Direct-to-Consumer Genomics</h3>
 <p class="font">
@@ -48,5 +51,6 @@ Direct-to-consumer genomics is a rapidly growing industry and leading companies 
 <p class="font" >
 Machine learning in genomics is currently impacting multiple touch points including how genetic research is conducted, how clinicians provide patient care and the accessibility of genomics to individuals interested in learning more about how their heredity may impact their health.
 The success of gene therapy will mean fewer medicines, fewer visits to physicians over the lifetime of a patient, which in turn will improve the Quality Adjusted Life Years (QALY) post therapy. ML-assisted gene therapy promises to be a ray of hope for patients with rare genetic diseases who currently cannot be cured using existing drugs and treatments. </p>
+ <p style="align:center ; font-size:25px;"> Blog by Diksha Gadataranavar </p>
 </body>
 </html>
