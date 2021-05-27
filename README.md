@@ -1,20 +1,16 @@
 <html lang ="en">
 <head> 
- <strong><h2>Latest Technology Innovations -IT<h2> </strong>
+ <strong><h2>Latest Technology Innovations -IT</h2> </strong>
 <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
- // <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-  //<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-  //<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-
-  
-
-</style>  
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"
+   src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"
+   src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"/>
 
 
 </head>
 <body>
-<p style="color: #4a4a4a" class="font" >Remember the movie Chennai  vs China (Hindi) , the story about how the student tries to revive the ancestor’s genetic skills and find a cure for a virus .They found the target gene  and tried editing and triggering that gene sequence .Here is where the machine learning  evolving ,that is in Gene Therapy .</p>
+<p style="color: #4a4a4a" class="font",font-size:25px >Remember the movie Chennai  vs China (Hindi) , the story about how the student tries to revive the ancestor’s genetic skills and find a cure for a virus .They found the target gene  and tried editing and triggering that gene sequence .Here is where the machine learning  evolving ,that is in Gene Therapy .</p>
 
 <h3>What is Gene Therapy?</h3>
 
