@@ -11,7 +11,7 @@
 
 </head>
 <body>
-<p style="color: #4a4a4a" class="font",font-size:25px >Remember the movie Chennai  vs China (Hindi) , the story about how the student tries to revive the ancestor’s genetic skills and find a cure for a virus .They found the target gene  and tried editing and triggering that gene sequence .Here is where the machine learning  evolving ,that is in Gene Therapy .</p>
+<p >Remember the movie Chennai  vs China (Hindi) , the story about how the student tries to revive the ancestor’s genetic skills and find a cure for a virus .They found the target gene  and tried editing and triggering that gene sequence .Here is where the machine learning  evolving ,that is in Gene Therapy .
 
 <h3>What is Gene Therapy?</h3>
 
